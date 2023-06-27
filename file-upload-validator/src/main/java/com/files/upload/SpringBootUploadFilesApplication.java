@@ -13,8 +13,7 @@ public class SpringBootUploadFilesApplication {
 
 
     public static void main(String[] args) {
+
         SpringApplication.run(SpringBootUploadFilesApplication.class, args);
     }
-
-
 }
